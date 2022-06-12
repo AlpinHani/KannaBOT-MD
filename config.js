@@ -44,33 +44,33 @@ let wibh = moment.tz('Asia/Jakarta').format('HH')
 /*============== SOCIAL ==============*/
 
 // kalo ga punya ketik "-" atau biarin aja biar ada creditsnya :v
-global.sig = 'https://instagram.com/ppiowy_'
-global.sgh = 'https://github.com/kannachann'
-global.sgc = 'https://chat.whatsapp.com/EawZW6vp8gwG4uGt0r4Awa'
+global.sig = 'https://instagram.com/en4y.pin'
+global.sgh = 'https://github.com/AlpinHani'
+global.sgc = 'https://chat.whatsapp.com/HSsRyGd3CbtBWbsV1Bg1Ar'
 global.sdc = 'https://discord.gg/WEJQjugTY7'
 global.snh = 'https://nhentai.net/g/365296/'
 
 /*============== PAYMENT ==============*/
-global.pdana = '085712420674'
-global.povo = '085712420674'
-global.pgopay = '085712420674'
-global.ppulsa = '085712420674'
-global.ppulsa2 = '083143393763'
+global.pdana = '082287750102'
+global.povo = '082287750102'
+global.pgopay = '082287750102'
+global.ppulsa = '082287750102'
+global.ppulsa2 = '082287750102'
 global.psaweria = 'https://saweria.com/kannabotz'
 
 /*============== NOMOR ==============*/
 global.nomorbot = '6283143393763'
 global.nomorown = '62831433937633'
 global.namebot = 'Kanna BOT'
-global.nameown = 'Letta - Sama'
+global.nameown = 'Alpin - Hani'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['6283143393763'],
-  ['6285712420674'],
+  ['6282287750102'],
+  ['6282287750102'],
   ['18126338970'],
-  ['62831433937633', 'LETTA ! 🐰', true]
+  ['6282287750102', 'Alpin ! 🐰', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
